@@ -20,4 +20,6 @@ The goal is not only prediction accuracy but also interpretability and recall (c
 Both Decision Tree and Random Forest gave about 86% accuracy.
 Surprisingly, *Decision Tree* has better Recall and Precision than Random Forest for this dataset.
 
+To access the code, download the file as .ipynb and upload in colab or any other notebook.
+
 
