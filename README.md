@@ -1,7 +1,7 @@
 # HeartDiseasePrediction
 This project builds a machine learning pipeline to predict the likelihood of heart disease based on patient health attributes such as age, cholesterol, blood pressure, chest pain type, and more.
 
-Using a dataset of 918 patients with 16 features, I performed:
+Using the clean dataset, I performed:
 
 Data cleaning & preprocessing (handling missing values, encoding categorical variables).
 
@@ -11,7 +11,7 @@ One-hot encoding for categorical variables.
 
 Handling class imbalance with SMOTE & Random Oversampling.
 
-Modeling using Logistic Regression, Random Forest, and XGBoost.
+Modeling using Decision Tree, Random Forest.
 
 Cross-validation (StratifiedKFold) for robust evaluation.
 
